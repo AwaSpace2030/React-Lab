@@ -1,0 +1,66 @@
+/* User Profile Card Page */
+.user_card_con {
+  background-color: #deeafe;
+  margin: 20px;
+  margin-top: 40px;
+  min-height: 550px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  perspective: 1000px;
+  transition: all 0.5s ease;
+}
+.user_card_con .card {
+  width: 390px;
+  min-height: 410px;
+  background-color: white;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  box-shadow: rgba(0, 0, 0, 0.053) 0px 1px 4px;
+  transform-style: preserve-3d;
+  transition: transform 0.6s cubic-bezier(0.23, 1, 0.32, 1), box-shadow 0.4s ease;
+}
+.user_card_con .card:hover {
+  transform: rotateY(5deg) rotateX(5deg);
+  box-shadow: 0 20px 40px rgba(39, 39, 48, 0.06), 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.profileHeader {
+  margin-top: 30px;
+  width: 100%;
+  text-align: center;
+}
+.profileHeader h4 {
+  margin-top: 12px;
+  font-size: 18px;
+}
+.profileHeader p {
+  font-size: 14px;
+  color: #7b7a7a;
+}
+.profileHeader img {
+  width: 75px;
+  border-radius: 50%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+.profileHeader .des {
+  padding: 20px 30px;
+}
+.profileHeader .contact_btn {
+  background: #392fbe;
+  color: white;
+  font-size: 14px;
+  margin-top: 10px;
+  text-align: center;
+  border-radius: 8px;
+  padding: 10px 40px;
+  width: 80%;
+  cursor: pointer;
+  transition: background-color 0.4s ease;
+}
+.profileHeader .contact_btn:hover {
+  background-color: #1e1966;
+}/*# sourceMappingURL=Pro4.module.css.map */
