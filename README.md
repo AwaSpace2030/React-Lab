@@ -1,12 +1,35 @@
-# React + Vite
+React-Lab
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+React-Lab is a collection of small React applications demonstrating practical frontend skills using React and Vite. This project showcases both UI and functional React components, integrating APIs, state management, and responsive design.
 
-Currently, two official plugins are available:
+Included Projects
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Todo List – Add and remove items dynamically.
 
-## Expanding the ESLint configuration
+Weather App – Display weather data using a public API.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Employee Card – A reusable React component to display employee information.
+
+Simple Counter – Increment and decrement values using React state.
+
+Tech Stack
+
+React
+
+Vite
+
+JavaScript (ES6+)
+
+CSS / Sass / Tailwind
+
+API Integration
+
+Git (Version Control)
+
+Live Demo
+
+https://react1lab.netlify.app/
+
+Note
+
+More applications are being added continuously – from simple projects to advanced ones – to showcase my ongoing React skills.
