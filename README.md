@@ -1,6 +1,6 @@
 React-Lab
 
-React-Lab is a collection of small React applications demonstrating practical frontend skills using React and Vite. This project showcases both UI and functional React components, integrating APIs, state management, and responsive design.
+React-Lab is a collection of small React applications demonstrating practical frontend skills using React and Vite. This project showcases both UI and functional React components, integrating APIs, state management.
 
 Included Projects
 
@@ -12,7 +12,7 @@ Employee Card – A reusable React component to display employee information.
 
 Simple Counter – Increment and decrement values using React state.
 
-Tech Stack
+Tech Stack :
 
 React
 
@@ -20,7 +20,7 @@ Vite
 
 JavaScript (ES6+)
 
-CSS / Sass / Tailwind
+CSS 
 
 API Integration
 
